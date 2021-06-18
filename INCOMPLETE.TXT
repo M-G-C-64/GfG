@@ -1,0 +1,2 @@
+(7)Number of pairs: https://practice.geeksforgeeks.org/problems/number-of-pairs/0/
+(8)Inversion Array: https://practice.geeksforgeeks.org/problems/inversion-of-array/0/
