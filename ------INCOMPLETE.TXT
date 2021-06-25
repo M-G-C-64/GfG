@@ -1,2 +1,6 @@
-(7)Number of pairs: https://practice.geeksforgeeks.org/problems/number-of-pairs/0/
-(8)Inversion Array: https://practice.geeksforgeeks.org/problems/inversion-of-array/0/
+ARRAY -- (7)Number of pairs: https://practice.geeksforgeeks.org/problems/number-of-pairs/0/
+ARRAY -- (8)Inversion Array: https://practice.geeksforgeeks.org/problems/inversion-of-array/0/
+
+SRTING -- (9)Form a palindrome: https://practice.geeksforgeeks.org/problems/form-a-palindrome1455/1#
+
+.
