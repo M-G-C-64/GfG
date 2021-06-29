@@ -3,4 +3,6 @@ ARRAY -- (8)Inversion Array: https://practice.geeksforgeeks.org/problems/inversi
 
 SRTING -- (9)Form a palindrome: https://practice.geeksforgeeks.org/problems/form-a-palindrome1455/1#
 
+LINKEDLIST -- (7)Remove loop in linked list: https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1#
 .
+
